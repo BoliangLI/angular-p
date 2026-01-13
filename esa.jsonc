@@ -1,0 +1,9 @@
+{
+  "name": "angular-p",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./dist/angular-p",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}
